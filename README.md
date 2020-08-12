@@ -1,6 +1,6 @@
 ### Hi there, I'm [Zizi][linktr.ee] 👋
 
-## I'm a Mechanical Engineering Student, Graphic Designer, Developer, and Teacher!
+## I'm a Mechanical Engineering Student, Graphic Designer and Developer!
 ## From Malaysia 🇲🇾
 - 🔭 I’m currently working on [Shopee Store][shopee]!
 - 🌱 I’m currently learning everything 🤣
@@ -10,13 +10,13 @@
 
 ### Connect with me:
 
-[<img align="left" alt="ziziwho" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][linktr.ee]
-[<img align="left" alt="ziziwho" | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="ziziwho links" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][linktr.ee]
+[<img align="left" alt="ziziwho | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="ziziwho" | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="ziziwho" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="ziziwho" width="22px" src="https://img.icons8.com/material-sharp/24/000000/telegram-app.png" />][telegram]
-[<img align="left" alt="ziziwho" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][blog]
-[<img align="left" alt="ziziwho" | Shopee" width="22px" src="https://img.icons8.com/pastel-glyph/64/000000/shop.png" />][shopee]
+[<img align="left" alt="ziziwho | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="ziziwho | Telegram" width="22px" src="https://img.icons8.com/material-sharp/24/000000/telegram-app.png" />][telegram]
+[<img align="left" alt="ziziwho | Blog" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][blog]
+[<img align="left" alt="ziziwho | Shopee" width="22px" src="https://img.icons8.com/pastel-glyph/64/000000/shop.png" />][shopee]
 <br />
 
 ---
