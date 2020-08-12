@@ -28,9 +28,9 @@
 ---
 ### 📈 Stats
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=ziziwho&show_icons=true&hide_border=true" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=ziziwho&show_icons=true&hide_border=true&count_private=true" />
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziziwho&layout=compact&hide_border=true" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziziwho&layout=compact&hide_border=true&count_private=true" />
 
 [linktr.ee]: https://linktr.ee/ziziworks
 [twitter]: https://twitter.com/ziziworks_MY
