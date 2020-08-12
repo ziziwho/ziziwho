@@ -32,13 +32,10 @@
 
 ---
 ### 📈 Stats
-<a href="https://github.com/ziziwho#stats">
+
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=ziziwho&show_icons=true&hide_border=true" />
-</a>
-<a href="https://github.com/ziziwho#stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziziwho&layout=compact" />
-</a>
-</br>
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziziwho&layout=compact" />
 ---
 [linktr.ee]: https://linktr.ee/ziziworks
 [twitter]: https://twitter.com/ziziworks_MY
