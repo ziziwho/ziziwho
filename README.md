@@ -23,9 +23,6 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Automatically delete messages joining and leaving in the Telegram group](https://www.youtube.com/watch?v=liB5CV0zB8Y)
-- [How to Create Text Links in Groups / Telegram Channels](https://www.youtube.com/watch?v=JHJo4epAbt8)
-- [How To Make Buttons In Telegram Groups / Channels](https://www.youtube.com/watch?v=qgL_NhYO7Y8)
 <!-- YOUTUBE:END -->
 
 ---
