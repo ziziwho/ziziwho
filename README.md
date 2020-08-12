@@ -30,7 +30,7 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=ziziwho&show_icons=true&hide_border=true" />
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziziwho&layout=compact" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziziwho&layout=compact&hide_border=true" />
 
 [linktr.ee]: https://linktr.ee/ziziworks
 [twitter]: https://twitter.com/ziziworks_MY
