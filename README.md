@@ -31,10 +31,13 @@
 <!-- YOUTUBE:END -->
 
 ---
-
-<img align="left" alt="ziziwho's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ziziwho&show_icons=true&hide_border=true" />
-<br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ziziwho&layout=compact)](https://github.com/ziziwho/github-readme-stats)
+### 📈 Stats
+<a href="https://github.com/ziziwho#stats">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=ziziwho&show_icons=true&hide_border=true" />
+</a>
+<a href="https://github.com/ziziwho#stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziziwho&layout=compact" />
+</a>
 [linktr.ee]: https://linktr.ee/ziziworks
 [twitter]: https://twitter.com/ziziworks_MY
 [youtube]: https://www.youtube.com/channel/UCW36UNroi3B4Ix9ln1e6rUQ?sub_confirmation=1
