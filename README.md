@@ -1,7 +1,7 @@
 ### Hi there, I'm [Zizi][linktr.ee] 👋
-
+[<img align="left" alt="ziziwho | Linktr.ee" src="https://img.icons8.com/fluent/24/000000/map-pin.png" />][malaysia] from Malaysia 🇲🇾
 ## I'm a Mechanical Engineering Student, Graphic Designer and Developer!
-## From Malaysia 🇲🇾
+
 - 🔭 I’m currently working on [Shopee Store][shopee]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to build my [YouTube Channel][youtube]
@@ -40,3 +40,4 @@
 [telegram]: https://t.me/ziziworks
 [blog]: https://ziziworks.blogspot.com/
 [shopee]: https://shopee.com.my/ziziworks
+[malaysia]: https://www.google.com/search?q=Malaysia
