@@ -39,6 +39,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziziwho&layout=compact" />
 </a>
 </br>
+---
 [linktr.ee]: https://linktr.ee/ziziworks
 [twitter]: https://twitter.com/ziziworks_MY
 [youtube]: https://www.youtube.com/channel/UCW36UNroi3B4Ix9ln1e6rUQ?sub_confirmation=1
