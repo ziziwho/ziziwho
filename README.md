@@ -23,7 +23,7 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Set Telegram username](https://www.youtube.com/watch?v=O6e9ypgg0hw)
+- [Set username on Telegram](https://www.youtube.com/watch?v=O6e9ypgg0hw)
 - [View group statistics on Telegram](https://www.youtube.com/watch?v=cBL9adTYlE0)
 - [Update Telegram on Android](https://www.youtube.com/watch?v=dAeDCI97Sqo)
 - [Automatik padam mesej menyertai dan meninggalkan dalam kumpulan Telegram](https://www.youtube.com/watch?v=liB5CV0zB8Y)
