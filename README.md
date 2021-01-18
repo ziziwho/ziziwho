@@ -23,11 +23,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Change phone number on Telegram](https://www.youtube.com/watch?v=qNvv67lqxDI)
 - [Remove username on Telegram](https://www.youtube.com/watch?v=j0SNpHhv75k)
 - [Change username on Telegram](https://www.youtube.com/watch?v=qqDsFUxmuPY)
 - [Set username on Telegram](https://www.youtube.com/watch?v=O6e9ypgg0hw)
 - [View group statistics on Telegram](https://www.youtube.com/watch?v=cBL9adTYlE0)
-- [Update Telegram on Android](https://www.youtube.com/watch?v=dAeDCI97Sqo)
 <!-- YOUTUBE:END -->
 
 ---
