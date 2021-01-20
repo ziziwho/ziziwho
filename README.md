@@ -23,11 +23,10 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Media editor on Telegram](https://www.youtube.com/watch?v=8jeIijWE310)
-- [Schedule messages on Telegram](https://www.youtube.com/watch?v=PnUHlrGL3fE)
 - [Change phone number on Telegram](https://www.youtube.com/watch?v=qNvv67lqxDI)
-- [Remove username on Telegram](https://www.youtube.com/watch?v=j0SNpHhv75k)
 - [Change username on Telegram](https://www.youtube.com/watch?v=qqDsFUxmuPY)
+- [Cara Membuat Teks Pautan di Channel atau Group Telegram](https://www.youtube.com/watch?v=JHJo4epAbt8)
+- [Cara Buat Butang Di Group / Channel Telegram](https://www.youtube.com/watch?v=qgL_NhYO7Y8)
 <!-- YOUTUBE:END -->
 
 ---
