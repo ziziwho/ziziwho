@@ -10,10 +10,6 @@
 
 ### Connect with me:
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="HORIZONTAL" data-vanity="wazif-isyraf" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://my.linkedin.com/in/wazif-isyraf?trk=profile-badge">Wazif Isyraf Lamzi</a></div>
-              
-
 [<img align="left" alt="ziziwho | Linktr.ee" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][linktr.ee]
 [<img align="left" alt="ziziwho | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="ziziwho | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
