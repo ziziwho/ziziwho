@@ -37,6 +37,8 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziziwho&layout=compact&hide_border=true&count_private=true" />
 
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="HORIZONTAL" data-vanity="wazif-isyraf" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://my.linkedin.com/in/wazif-isyraf?trk=profile-badge">Wazif Isyraf Lamzi</a></div>
+              
 [linktr.ee]: https://linktr.ee/ziziworks
 [twitter]: https://twitter.com/ziziworks_MY
 [youtube]: https://www.youtube.com/channel/UCW36UNroi3B4Ix9ln1e6rUQ?sub_confirmation=1
